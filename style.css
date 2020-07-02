@@ -1,0 +1,51 @@
+
+body {
+
+background-color: darkslategrey;
+
+}
+
+header {
+
+padding: 35px;
+background-color: darkorchid;
+font-size: 25px;
+color: lime;
+text-align: center;
+margin: 5%;
+}
+
+
+aside
+{
+text-align: center;
+font-size: 200%;
+color: salmon;
+
+
+}
+
+
+h2
+{
+margin-right: 10%;
+color: purple;
+background-color: darkturquoise;
+font-size: 40px;
+padding: 20px;
+width: 100%;
+margin: 1.5%;
+margin-right: 40%;
+}
+
+section
+{
+clear: both;
+text-align: center;
+margin-left: 17%;    
+float: left;
+color: black (243, 23, 170);   
+font-size:x-large
+
+  
+}
